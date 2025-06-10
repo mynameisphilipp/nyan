@@ -815,6 +815,2446 @@
       },
       "alias": "Правительство Белгородской области",
       "issue": "main"
+    },
+    {
+      "name": "moscowach",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москвач • Новости Москвы",
+      "issue": "main"
+    },
+    {
+      "name": "mosguru",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Первый Московский",
+      "issue": "main"
+    },
+    {
+      "name": "msk_live",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва Live",
+      "issue": "main"
+    },
+    {
+      "name": "moscowmap",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Новости Москвы",
+      "issue": "main"
+    },
+    {
+      "name": "moscowachplus",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москвач+",
+      "issue": "main"
+    },
+    {
+      "name": "mskint",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва - это интересно",
+      "issue": "main"
+    },
+    {
+      "name": "moscow",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва сегодня",
+      "issue": "main"
+    },
+    {
+      "name": "mosnews",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Московская Хроника",
+      "issue": "main"
+    },
+    {
+      "name": "msk7days",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва 24/7",
+      "issue": "main"
+    },
+    {
+      "name": "msky_media",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "moskovsky!",
+      "issue": "main"
+    },
+    {
+      "name": "kP2na-2M8sw5MTVi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Что там, Москва?",
+      "issue": "main"
+    },
+    {
+      "name": "moskva_only",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Типичная Москва",
+      "issue": "main"
+    },
+    {
+      "name": "moscowow",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва сейчас",
+      "issue": "main"
+    },
+    {
+      "name": "mosjournal",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва на максималках",
+      "issue": "main"
+    },
+    {
+      "name": "moscowmi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Моя Москва",
+      "issue": "main"
+    },
+    {
+      "name": "infomoscow24",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва 24",
+      "issue": "main"
+    },
+    {
+      "name": "moswalker",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Гуляй, Москва",
+      "issue": "main"
+    },
+    {
+      "name": "moskvik",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва • Новости • Москвик",
+      "issue": "main"
+    },
+    {
+      "name": "mosclive",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва Live",
+      "issue": "main"
+    },
+    {
+      "name": "moscowtop",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва с огоньком",
+      "issue": "main"
+    },
+    {
+      "name": "wQYzJExuf9g0NzQy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Твоя Москва",
+      "issue": "main"
+    },
+    {
+      "name": "mosnow",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва сейчас",
+      "issue": "main"
+    },
+    {
+      "name": "vmoskve198",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Расскажи, Москва",
+      "issue": "main"
+    },
+    {
+      "name": "kudamsk24",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "КудаМосква",
+      "issue": "main"
+    },
+    {
+      "name": "VJqcjmhHjlgxZjYy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва 360°",
+      "issue": "main"
+    },
+    {
+      "name": "moslenta",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Мосфид • Новости Москвы",
+      "issue": "main"
+    },
+    {
+      "name": "ogomoscow",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва не спит",
+      "issue": "main"
+    },
+    {
+      "name": "DwCGz9n6I4FkNGQ6",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва главное",
+      "issue": "main"
+    },
+    {
+      "name": "mskmycity",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Мой город — Москва",
+      "issue": "main"
+    },
+    {
+      "name": "mskonline2024",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва онлайн",
+      "issue": "main"
+    },
+    {
+      "name": "d5TB-l_KALhhZWFi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва 2025",
+      "issue": "main"
+    },
+    {
+      "name": "x3ppbOWry2AzOTdk",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Пульс Москвы",
+      "issue": "main"
+    },
+    {
+      "name": "mnews_ru",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Московские новости",
+      "issue": "main"
+    },
+    {
+      "name": "Moscow_happy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва радует • Афиша",
+      "issue": "main"
+    },
+    {
+      "name": "mrql-qX70-M1NzQy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "МосАфиша",
+      "issue": "main"
+    },
+    {
+      "name": "cEmOhvyfwGM2MGI6",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Молния | Москва",
+      "issue": "main"
+    },
+    {
+      "name": "iikhu",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "ЫЫХУ Москвы",
+      "issue": "main"
+    },
+    {
+      "name": "qB6SyiBWOKQyYWU6",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Пульс Москвы",
+      "issue": "main"
+    },
+    {
+      "name": "moscownice",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва красивая",
+      "issue": "main"
+    },
+    {
+      "name": "detstvo_msk",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва для детей • Афиша",
+      "issue": "main"
+    },
+    {
+      "name": "XSw7Cvv7UYg5YjM6",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "The Москва",
+      "issue": "main"
+    },
+    {
+      "name": "9q7QksvGCa5jZDYy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Бесплатная Москва. Скидки 😊🌴🌿",
+      "issue": "main"
+    },
+    {
+      "name": "DtRoad",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Дептранс Москвы",
+      "issue": "main"
+    },
+    {
+      "name": "7Daz-CMyZ7MzMThi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Эй, Москва!",
+      "issue": "main"
+    },
+    {
+      "name": "mscculture",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Куда сходить в Москве",
+      "issue": "main"
+    },
+    {
+      "name": "Moscowzoo_official",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Московский зоопарк",
+      "issue": "main"
+    },
+    {
+      "name": "old_Moscow",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Старая Москва",
+      "issue": "main"
+    },
+    {
+      "name": "chpmoscow1",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "ЧП / Москва",
+      "issue": "main"
+    },
+    {
+      "name": "dlBcW3WtDfZhYmMy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Московская птичка",
+      "issue": "main"
+    },
+    {
+      "name": "go_moskva",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Куда пойти в Москве",
+      "issue": "main"
+    },
+    {
+      "name": "msk_deti",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва детям | Куда сходить?",
+      "issue": "main"
+    },
+    {
+      "name": "3Ai7yvhqkvpiMTQy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Интересная Москва",
+      "issue": "main"
+    },
+    {
+      "name": "1ggAkxAj5shmODli",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва Летим",
+      "issue": "main"
+    },
+    {
+      "name": "_1ffmFfP9A8yNWNi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Московский Вайб | Новости Москвы",
+      "issue": "main"
+    },
+    {
+      "name": "dtp777",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "ДТП и ЧП МОСКВА и МО",
+      "issue": "main"
+    },
+    {
+      "name": "mostrips",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "MosTrips 🔸Афиша Москва🔸Интересные места Москвы и Подмосковья",
+      "issue": "main"
+    },
+    {
+      "name": "msk1_news",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "MSK1.RU | Новости Москвы | Россия",
+      "issue": "main"
+    },
+    {
+      "name": "Wvs7f100JOEwYTVl",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва Позитивная | Последние Московские Новости",
+      "issue": "main"
+    },
+    {
+      "name": "_1bdubf-LpE2N2Zi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Go Moscow • Куда пойти Москва",
+      "issue": "main"
+    },
+    {
+      "name": "Y4f9k4wXpsAzMDZi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "PRO Москву",
+      "issue": "main"
+    },
+    {
+      "name": "0XiQ4m5o5uw5MGQ1",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Московский Гид | Афиша",
+      "issue": "main"
+    },
+    {
+      "name": "frlz-Iv5WX81N2M6",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Бесплатная Москва",
+      "issue": "main"
+    },
+    {
+      "name": "citymsc",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва online",
+      "issue": "main"
+    },
+    {
+      "name": "moskvamir_24",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Новости Москвы / Мир 24",
+      "issue": "main"
+    },
+    {
+      "name": "moscow_smi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Моя Москва",
+      "issue": "main"
+    },
+    {
+      "name": "moskwa_life",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва Life • Новости Москвы",
+      "issue": "main"
+    },
+    {
+      "name": "gTdFN7aGHyExN2Ni",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Твоя Москва+",
+      "issue": "main"
+    },
+    {
+      "name": "moscow_kuda",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Афиша Москва • Скидки",
+      "issue": "main"
+    },
+    {
+      "name": "depobr_mos",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Московское образование",
+      "issue": "main"
+    },
+    {
+      "name": "YwO5iG5KD15iZjdi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Работа Москва",
+      "issue": "main"
+    },
+    {
+      "name": "htgsH_9ZaoQzNmYy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва в тренде",
+      "issue": "main"
+    },
+    {
+      "name": "DtOperativno",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Дептранс. Оперативно",
+      "issue": "main"
+    },
+    {
+      "name": "glaz_moscow",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Глаз Москвы • Новости",
+      "issue": "main"
+    },
+    {
+      "name": "progorodmsk",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Привет, Москва!",
+      "issue": "main"
+    },
+    {
+      "name": "themosckva",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва Live | Новости",
+      "issue": "main"
+    },
+    {
+      "name": "msk_af",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Афиша | Москва сегодня",
+      "issue": "main"
+    },
+    {
+      "name": "mosgul",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Московские Гуляки | Афиша Москва",
+      "issue": "main"
+    },
+    {
+      "name": "moskva_tretiy_rim",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва - новостная",
+      "issue": "main"
+    },
+    {
+      "name": "GMs_-elcc6lhOTY6",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "В Москве Москва",
+      "issue": "main"
+    },
+    {
+      "name": "2zR3DVZxaJgzNDdk",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва LIVE",
+      "issue": "main"
+    },
+    {
+      "name": "varlamovanapoleon_msk",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Особенный Наполеон МСК",
+      "issue": "main"
+    },
+    {
+      "name": "mosvorona",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Вороны-москвички",
+      "issue": "main"
+    },
+    {
+      "name": "d-pSLBCV7-4yZDBi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Прямой эфир Москва",
+      "issue": "main"
+    },
+    {
+      "name": "vD-oXVv8K9BmZTQy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Великолепная Москва",
+      "issue": "main"
+    },
+    {
+      "name": "moshistory",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "История Москвы",
+      "issue": "main"
+    },
+    {
+      "name": "moscowsee1",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва | афиша, досуг",
+      "issue": "main"
+    },
+    {
+      "name": "moscow_on_air",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Говорит и показывает Москва",
+      "issue": "main"
+    },
+    {
+      "name": "mosrutop",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Город Москва",
+      "issue": "main"
+    },
+    {
+      "name": "official_moscow",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва",
+      "issue": "main"
+    },
+    {
+      "name": "moskvaz",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "МоскваДА | Новости Москвы",
+      "issue": "main"
+    },
+    {
+      "name": "msk_det",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва детская | Афиша",
+      "issue": "main"
+    },
+    {
+      "name": "moscow_pike",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Московская Щука",
+      "issue": "main"
+    },
+    {
+      "name": "msk_top1",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва сегодня",
+      "issue": "main"
+    },
+    {
+      "name": "HNkuYxfdHQ41NTZi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москвич • Новости Москвы",
+      "issue": "main"
+    },
+    {
+      "name": "castings",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Кастинги в Москве",
+      "issue": "main"
+    },
+    {
+      "name": "msk_online77",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва онлайн | Новости столицы и МО",
+      "issue": "main"
+    },
+    {
+      "name": "night2daymoscow",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Night2Day",
+      "issue": "main"
+    },
+    {
+      "name": "mskdo500",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Москва до 500+",
+      "issue": "main"
+    },
+    {
+      "name": "viewmoscow",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Красивые места Москвы и Подмосковья",
+      "issue": "main"
+    },
+    {
+      "name": "moscomtourism",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Мостуризм",
+      "issue": "main"
+    },
+    {
+      "name": "MolniaChannel",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Молния. Москва",
+      "issue": "main"
+    },
+    {
+      "name": "mskplus",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Привет, Москва+",
+      "issue": "main"
+    },
+    {
+      "name": "SKuhgz9thygyZXJI",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Мой Питер",
+      "issue": "main"
+    },
+    {
+      "name": "live_piter",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Питер Live",
+      "issue": "main"
+    },
+    {
+      "name": "spbtoday",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Питер сегодня",
+      "issue": "main"
+    },
+    {
+      "name": "4nqeuZWXl7I3NWM6",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Питер сейчас",
+      "issue": "main"
+    },
+    {
+      "name": "fontankaspb",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Фонтанка SPB Online",
+      "issue": "main"
+    },
+    {
+      "name": "mashmoyka",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Mash на Мойке",
+      "issue": "main"
+    },
+    {
+      "name": "pitlive",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Питер Live",
+      "issue": "main"
+    },
+    {
+      "name": "piterguru",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Первый Питерский",
+      "issue": "main"
+    },
+    {
+      "name": "Tm_n4wXRahPO3Db7",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "True Питер",
+      "issue": "main"
+    },
+    {
+      "name": "piterach",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Питерач • Новости Питера",
+      "issue": "main"
+    },
+    {
+      "name": "beMhmjyKvMA0OTdi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Молния | Питер",
+      "issue": "main"
+    },
+    {
+      "name": "C6i8ZrllYBU0ZGYy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Нетипичный Питер",
+      "issue": "main"
+    },
+    {
+      "name": "NREPTOjUohxmMDIy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Питер 360°",
+      "issue": "main"
+    },
+    {
+      "name": "gDxr32BWmnA4ZDBi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "В Питере — жить!",
+      "issue": "main"
+    },
+    {
+      "name": "piterburg",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Питерская Хроника",
+      "issue": "main"
+    },
+    {
+      "name": "map_piter",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Piter map",
+      "issue": "main"
+    },
+    {
+      "name": "RtPaqqwIgkk2ZWUy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Питер главное",
+      "issue": "main"
+    },
+    {
+      "name": "nizherinkaspb1",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "НИЖЕ РЫНКА СПБ🔥",
+      "issue": "main"
+    },
+    {
+      "name": "UMdJRrXjFd9eVcey",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Как дела, Санкт-Петербург?",
+      "issue": "main"
+    },
+    {
+      "name": "apBhPE3mWzhlOThi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Санкт-Петербург | Питер Новости",
+      "issue": "main"
+    },
+    {
+      "name": "spbnews0",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Новости Питера | Санкт Петербурга",
+      "issue": "main"
+    },
+    {
+      "name": "fczenit",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Футбольный клуб «Зенит»",
+      "issue": "main"
+    },
+    {
+      "name": "spb_smi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Санкт-Петербург LIVE",
+      "issue": "main"
+    },
+    {
+      "name": "pitertop",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Петербург с огоньком",
+      "issue": "main"
+    },
+    {
+      "name": "lifepetersburg",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Санкт-Петербург Life",
+      "issue": "main"
+    },
+    {
+      "name": "64PaBDXi-ydlNjRi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Мой город — Питер",
+      "issue": "main"
+    },
+    {
+      "name": "unknown_piter",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Незнакомый Петербург",
+      "issue": "main"
+    },
+    {
+      "name": "gopeterburg",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Куда пойти в Питере",
+      "issue": "main"
+    },
+    {
+      "name": "kudapiter24",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "КудаПитер",
+      "issue": "main"
+    },
+    {
+      "name": "dtp_spb78",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "ДТП И ЧП СПб",
+      "issue": "main"
+    },
+    {
+      "name": "v_poiskax_chuda",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Кофе и билеты (в Петербурге)",
+      "issue": "main"
+    },
+    {
+      "name": "OQO4INSvR4M2MGIy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Go Piter • Куда пойти Питер",
+      "issue": "main"
+    },
+    {
+      "name": "pleada",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Новостройки СПБ | PLEADA",
+      "issue": "main"
+    },
+    {
+      "name": "spbmetro",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Метро Петербурга",
+      "issue": "main"
+    },
+    {
+      "name": "petrograd_my",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Мой Питер",
+      "issue": "main"
+    },
+    {
+      "name": "afishapeterburga",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Афиша бесплатных событий Петербурга",
+      "issue": "main"
+    },
+    {
+      "name": "zFwxDz0YCpYwMjYy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Питер Летим",
+      "issue": "main"
+    },
+    {
+      "name": "5X8pF1bljyEyYWM6",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Питер 2025",
+      "issue": "main"
+    },
+    {
+      "name": "a_beglov",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Александр Беглов",
+      "issue": "main"
+    },
+    {
+      "name": "good78news",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "78 | НОВОСТИ",
+      "issue": "main"
+    },
+    {
+      "name": "decembrist_spb",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Записки декабриста",
+      "issue": "main"
+    },
+    {
+      "name": "paperpaper_ru",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Бумага: всё о Петербурге",
+      "issue": "main"
+    },
+    {
+      "name": "spb_walk",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Гуляй, Питер",
+      "issue": "main"
+    },
+    {
+      "name": "gorbilet",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Горбилет Петербург – билеты со скидкой",
+      "issue": "main"
+    },
+    {
+      "name": "Megapolisonline",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Мегаполис | ДТП и ЧП | Санкт-Петербург | Питер💡",
+      "issue": "main"
+    },
+    {
+      "name": "town1703",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Петербург 1703",
+      "issue": "main"
+    },
+    {
+      "name": "legendary_piter",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Легендарный Петербург",
+      "issue": "main"
+    },
+    {
+      "name": "U-AyvkCVB7xkNjhi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Санкт-Петербург | Питер Live",
+      "issue": "main"
+    },
+    {
+      "name": "interespiter",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Интересный Питер",
+      "issue": "main"
+    },
+    {
+      "name": "KY7Ma4n6jydhYjUy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Мой Питер+",
+      "issue": "main"
+    },
+    {
+      "name": "freepeterburg",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Питер Бесплатно",
+      "issue": "main"
+    },
+    {
+      "name": "8iAJtPBxrzdiNzM6",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Галлерная. Квартиры Петербурга",
+      "issue": "main"
+    },
+    {
+      "name": "teatrspb",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Театры и концерты. Афиша и билеты со скидкой. Петербург.",
+      "issue": "main"
+    },
+    {
+      "name": "spb_state",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Эй, Питер!",
+      "issue": "main"
+    },
+    {
+      "name": "detstvo_spb",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Питер для детей • Афиша",
+      "issue": "main"
+    },
+    {
+      "name": "piteronline1",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Питер онлайн",
+      "issue": "main"
+    },
+    {
+      "name": "luckywings",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "ТУР СКАНЕР для МСК и СПБ",
+      "issue": "main"
+    },
+    {
+      "name": "piter_places",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Петербургские истории 🎞",
+      "issue": "main"
+    },
+    {
+      "name": "kudagospb",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "KudaGo: Петербург",
+      "issue": "main"
+    },
+    {
+      "name": "bestflats",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Нестыдные квартиры | Петербург",
+      "issue": "main"
+    },
+    {
+      "name": "peterburg_afisha",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Афиша Питер • Скидки",
+      "issue": "main"
+    },
+    {
+      "name": "spb_rest",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "В Питере есть",
+      "issue": "main"
+    },
+    {
+      "name": "gradspb",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "GradSPb | Санкт-Петербург",
+      "issue": "main"
+    },
+    {
+      "name": "eatpeterburg",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Где поесть в Питере",
+      "issue": "main"
+    },
+    {
+      "name": "QsIR--Y1_z9lMmEy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Питер • Афиша",
+      "issue": "main"
+    },
+    {
+      "name": "sp_1703",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "1703",
+      "issue": "main"
+    },
+    {
+      "name": "AsuVoZWQYypjODgy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Санкт-Петербург",
+      "issue": "main"
+    },
+    {
+      "name": "piter_v_golove",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Питер в голове • Про Санкт-Петербург • СПБ",
+      "issue": "main"
+    },
+    {
+      "name": "MuSYcnYDtd8wZTMy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Северная столица | Санкт-Петербург",
+      "issue": "main"
+    },
+    {
+      "name": "nowspb",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Петербург сейчас",
+      "issue": "main"
+    },
+    {
+      "name": "teatralnayaveshalka",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Театральная Вешалка",
+      "issue": "main"
+    },
+    {
+      "name": "Ev1zqJDwUuY5YjMy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Билеты со скидкой СПБ | Театры | Концерты",
+      "issue": "main"
+    },
+    {
+      "name": "spbdo500",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Петербург до 500",
+      "issue": "main"
+    },
+    {
+      "name": "PiterUnique",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Загадочный Петербург",
+      "issue": "main"
+    },
+    {
+      "name": "Bgl-wr5nuuI0ZDdi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Приморский район",
+      "issue": "main"
+    },
+    {
+      "name": "spb_burg",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Санкт-Петербург сегодня",
+      "issue": "main"
+    },
+    {
+      "name": "KtoSpb",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Кто со Мной?! Питер",
+      "issue": "main"
+    },
+    {
+      "name": "piter_headline",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Питер сегодня",
+      "issue": "main"
+    },
+    {
+      "name": "allnews47",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "47news",
+      "issue": "main"
+    },
+    {
+      "name": "infopeterburg",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Пойдем сегодня Петербург",
+      "issue": "main"
+    },
+    {
+      "name": "TheNevaTimes",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Нева Таймс (Neva Times)",
+      "issue": "main"
+    },
+    {
+      "name": "2z83TtSYXX01OThi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Питер Первый",
+      "issue": "main"
+    },
+    {
+      "name": "news9online",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Девяткино онлайн | Мурино",
+      "issue": "main"
+    },
+    {
+      "name": "ilovesakura_ru",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Сакура 🍣 Секретные промокоды для Санкт-Петербурга!",
+      "issue": "main"
+    },
+    {
+      "name": "shozhu",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Схожу, пожалуй",
+      "issue": "main"
+    },
+    {
+      "name": "sobaka_ru",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Собака.ru",
+      "issue": "main"
+    },
+    {
+      "name": "PysfNwjv8vkwZmYy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Великий Петербург | Афиша",
+      "issue": "main"
+    },
+    {
+      "name": "2kJPr3QHGSNkNjQy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Прямой эфир Питер",
+      "issue": "main"
+    },
+    {
+      "name": "afishaplus",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "ОтЛичный Петербург: афиша и гид Фонтанки",
+      "issue": "main"
+    },
+    {
+      "name": "j34y5sPF2_s5MGNi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "По ресторанам Санкт-Петербург",
+      "issue": "main"
+    },
+    {
+      "name": "q59-kxrAiwE3YzZi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "БИЛЕТЁР.СПБ",
+      "issue": "main"
+    },
+    {
+      "name": "9thgFtPzWKY3YzIy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Будь в курсе | Питер",
+      "issue": "main"
+    },
+    {
+      "name": "chtogdeestvpeterburge",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Что Где Есть в Петербурге",
+      "issue": "main"
+    },
+    {
+      "name": "night2day_spb",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Night2Day Санкт-Петербург",
+      "issue": "main"
+    },
+    {
+      "name": "lvngrm",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Ливингрум: Квартиры со вкусом, Санкт-Петербург",
+      "issue": "main"
+    },
+    {
+      "name": "castingspb",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Кастинги Спб",
+      "issue": "main"
+    },
+    {
+      "name": "gokidspeterburg",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Куда пойти в Питере с детьми",
+      "issue": "main"
+    },
+    {
+      "name": "govoritmilonov",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "ВИТАЛИЙ МИЛОНОВ",
+      "issue": "main"
+    },
+    {
+      "name": "rotondamedia",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Ротонда",
+      "issue": "main"
+    },
+    {
+      "name": "spb24live",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Питер лайв: Петербург 24/7",
+      "issue": "main"
+    },
+    {
+      "name": "theater_spb",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Концерты и Театры • Скидки • Афиша в СПБ",
+      "issue": "main"
+    },
+    {
+      "name": "obnyatSPb",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "В обнимку с Питером",
+      "issue": "main"
+    },
+    {
+      "name": "vorobiev_live",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Воробьёв LIVE",
+      "issue": "main"
+    },
+    {
+      "name": "obr_mo",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Образование Подмосковья",
+      "issue": "main"
+    },
+    {
+      "name": "tg_korolev",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Типичный Королев",
+      "issue": "main"
+    },
+    {
+      "name": "myluber",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Мои Люберцы ®️",
+      "issue": "main"
+    },
+    {
+      "name": "odi_city",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Типичное Одинцово",
+      "issue": "main"
+    },
+    {
+      "name": "ramenskoe24",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Раменское",
+      "issue": "main"
+    },
+    {
+      "name": "podmoskovie",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Подмосковье",
+      "issue": "main"
+    },
+    {
+      "name": "life_sergiev_posad",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "❗️Сергиев Посад Life🇷🇺",
+      "issue": "main"
+    },
+    {
+      "name": "msk_rest",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Отдых в Подмосковье 🏡",
+      "issue": "main"
+    },
+    {
+      "name": "mytischi_live",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "💢МЫТИЩИ.LIVE • НОВОСТИ",
+      "issue": "main"
+    },
+    {
+      "name": "tipkhimki",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Типичные Химки",
+      "issue": "main"
+    },
+    {
+      "name": "balashikha_life",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Балашиха Life",
+      "issue": "main"
+    },
+    {
+      "name": "izmoskvynavyhodnye",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Из Москвы на выходные 🚂",
+      "issue": "main"
+    },
+    {
+      "name": "podolsk24life",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Подольск",
+      "issue": "main"
+    },
+    {
+      "name": "dmitrov_gorod",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "ЧП Дмитров",
+      "issue": "main"
+    },
+    {
+      "name": "schelk_city",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Типичное Щёлково | Новости | ТЩ",
+      "issue": "main"
+    },
+    {
+      "name": "vokrug_msk",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Вокруг Москвы",
+      "issue": "main"
+    },
+    {
+      "name": "pushkino_official",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Pushkino_official | НОВОСТИ",
+      "issue": "main"
+    },
+    {
+      "name": "P-9FlTHrWmpiOm4G",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Mytischi_Official | НОВОСТИ",
+      "issue": "main"
+    },
+    {
+      "name": "zelenogradru",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Zelenograd.ru - Новости Зеленограда",
+      "issue": "main"
+    },
+    {
+      "name": "trofimovonline",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "⚡️Репортер Андрей Трофимов",
+      "issue": "main"
+    },
+    {
+      "name": "reutovsos",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "💣Реутов SOS Новости",
+      "issue": "main"
+    },
+    {
+      "name": "podmoskow",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Подмосква",
+      "issue": "main"
+    },
+    {
+      "name": "zamkadye_new",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Замкадье | Подмосковье | Мытищи",
+      "issue": "main"
+    },
+    {
+      "name": "Tipichniy_Noginsk",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Типичный Ногинск",
+      "issue": "main"
+    },
+    {
+      "name": "chpserpuhov",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "ЧП Серпухов",
+      "issue": "main"
+    },
+    {
+      "name": "serpukhov",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Серпухов | Новости, Подслушано, самое интересное",
+      "issue": "main"
+    },
+    {
+      "name": "Tipichnoe_Pushkino",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Типичное Пушкино",
+      "issue": "main"
+    },
+    {
+      "name": "podmsk01",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Подмосковье №1",
+      "issue": "main"
+    },
+    {
+      "name": "netall",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Инфопортал Зеленограда",
+      "issue": "main"
+    },
+    {
+      "name": "lobnya",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Лобня",
+      "issue": "main"
+    },
+    {
+      "name": "chehovvid",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Чехов Вид",
+      "issue": "main"
+    },
+    {
+      "name": "stupino",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Ступино",
+      "issue": "main"
+    },
+    {
+      "name": "himki24",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Химки",
+      "issue": "main"
+    },
+    {
+      "name": "Podslushano_Vidnoe",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Подслушано | Видное (18+)",
+      "issue": "main"
+    },
+    {
+      "name": "prodomodedovo",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Домодедовод: новости Домодедово",
+      "issue": "main"
+    },
+    {
+      "name": "ha5Ltf905E4yYTdi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Балашиха",
+      "issue": "main"
+    },
+    {
+      "name": "krasnogorsk_24",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Красногорск",
+      "issue": "main"
+    },
+    {
+      "name": "minzdravmosreg",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Разборчивым почерком",
+      "issue": "main"
+    },
+    {
+      "name": "9DzeAunjcYphNTM6",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Подольск 360°",
+      "issue": "main"
+    },
+    {
+      "name": "oursergievposad",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Наш Сергиев Посад",
+      "issue": "main"
+    },
+    {
+      "name": "kraftyou",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Красноармейский Крафт",
+      "issue": "main"
+    },
+    {
+      "name": "gAx-9OXAOCwxNzMy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Балашиха 360°",
+      "issue": "main"
+    },
+    {
+      "name": "newsregionsmo",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "REGIONS.RU | Новости Подмосковья",
+      "issue": "main"
+    },
+    {
+      "name": "oinfo_news",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "ОИНФО: Одинцово, Звенигород, Голицыно, Кубинка",
+      "issue": "main"
+    },
+    {
+      "name": "etonemsk",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Здесь вам не Москва",
+      "issue": "main"
+    },
+    {
+      "name": "moskovskaya_oblast_24",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Московская область 24",
+      "issue": "main"
+    },
+    {
+      "name": "vzletolympmo",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Образовательный центр «Взлёт»",
+      "issue": "main"
+    },
+    {
+      "name": "Podslushano_Ramenskoe",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Подслушано Раменское",
+      "issue": "main"
+    },
+    {
+      "name": "dmepress",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Аэропорт Домодедово",
+      "issue": "main"
+    },
+    {
+      "name": "butovo2",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Бутово Парк 2 (Дрожжино)",
+      "issue": "main"
+    },
+    {
+      "name": "kZs_cFO0egY2NWFi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Подольск",
+      "issue": "main"
+    },
+    {
+      "name": "samolet_feed",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "ЖК Люберцы | Новости",
+      "issue": "main"
+    },
+    {
+      "name": "uftF0mZ9JA01YmRi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Подмосковный Почтальон",
+      "issue": "main"
+    },
+    {
+      "name": "sts_lavra",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Свято-Троицкая Сергиева Лавра",
+      "issue": "main"
+    },
+    {
+      "name": "gksamolet",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Жк Самолет Люберцы",
+      "issue": "main"
+    },
+    {
+      "name": "zteYt__oae1lYTZi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Люберцы",
+      "issue": "main"
+    },
+    {
+      "name": "domodedovolive",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "ДомодедоВО новости",
+      "issue": "main"
+    },
+    {
+      "name": "bilety_mskspb",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "БИЛЕТЫ: Москва и СПб",
+      "issue": "main"
+    },
+    {
+      "name": "hello_istra",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Истра, буря, безумие",
+      "issue": "main"
+    },
+    {
+      "name": "Domodedovo_Podslusha",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Подслушано Домодедово",
+      "issue": "main"
+    },
+    {
+      "name": "Yl_4xQ-XqD1hNDli",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Железнодорожный",
+      "issue": "main"
+    },
+    {
+      "name": "Jei0J5G1Bjc3Njcy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Мытищи 2025",
+      "issue": "main"
+    },
+    {
+      "name": "arendamsk_mo",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Жильё Москва и МО 🏘",
+      "issue": "main"
+    },
+    {
+      "name": "istra_gorod",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Истра - городской информационный канал",
+      "issue": "main"
+    },
+    {
+      "name": "ruslanzagolovatskiy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Руслан Заголовацкий. Глава Орехово-Зуевского городского округа",
+      "issue": "main"
+    },
+    {
+      "name": "Podslushano_Dolgoprudny",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Подслушано Долгопрудный",
+      "issue": "main"
+    },
+    {
+      "name": "dorogitransport",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Дороги и транспорт МО",
+      "issue": "main"
+    },
+    {
+      "name": "istra360",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "360.ru Истра",
+      "issue": "main"
+    },
+    {
+      "name": "dmdaero",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Улетные новости Домодедова",
+      "issue": "main"
+    },
+    {
+      "name": "ltv24ru",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Телеканал «ЛТВ» 📺",
+      "issue": "main"
+    },
+    {
+      "name": "HsCJW75Y3d9kMGY6",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Красногорск",
+      "issue": "main"
+    },
+    {
+      "name": "kimramenskoe",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Кимчи || Раменское",
+      "issue": "main"
+    },
+    {
+      "name": "novosti_vidnoe",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Видное️|Подслушано Видное",
+      "issue": "main"
+    },
+    {
+      "name": "serpukhov_serpuhov",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Серпухович",
+      "issue": "main"
+    },
+    {
+      "name": "krasnogorsk_live",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Красногорск Live",
+      "issue": "main"
+    },
+    {
+      "name": "bogorodskiy360",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "360.ru Богородский округ",
+      "issue": "main"
+    },
+    {
+      "name": "krasnogorsk_official",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "КРАСНОГОРСК.НОВОСТИ",
+      "issue": "main"
+    },
+    {
+      "name": "Tipichnye_Mytishchi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Типичные Мытищи",
+      "issue": "main"
+    },
+    {
+      "name": "nXgpJHXnrlFkNjNi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Пушкинский Вайб",
+      "issue": "main"
+    },
+    {
+      "name": "soclifeMO",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "СоцLIFE",
+      "issue": "main"
+    },
+    {
+      "name": "estal24",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Электросталь",
+      "issue": "main"
+    },
+    {
+      "name": "Tipichniy_Krasnogorsk",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Типичный Красногорск",
+      "issue": "main"
+    },
+    {
+      "name": "Podslushano_Zhukovskiy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Подслушано Жуковский™",
+      "issue": "main"
+    },
+    {
+      "name": "bala_shukher",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Балашухер",
+      "issue": "main"
+    },
+    {
+      "name": "podolsk_pod",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Подольск Таймс",
+      "issue": "main"
+    },
+    {
+      "name": "26VKG225U-BiMWYy",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Королев | Москва",
+      "issue": "main"
+    },
+    {
+      "name": "okkolomna",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Ок, Коломна:",
+      "issue": "main"
+    },
+    {
+      "name": "podmoskvi4",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Рай и МКАД | Подмосковье",
+      "issue": "main"
+    },
+    {
+      "name": "Balashiha_Podslushan",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Подслушано Балашиха",
+      "issue": "main"
+    },
+    {
+      "name": "KRpGQfm2B8swZjRi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Коломна",
+      "issue": "main"
+    },
+    {
+      "name": "Lobnya_Podslushano",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Подслушано Лобня ™",
+      "issue": "main"
+    },
+    {
+      "name": "BalashikhaTV360",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "360.ru Балашиха",
+      "issue": "main"
+    },
+    {
+      "name": "balashiha_smi",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Новости Балашихи",
+      "issue": "main"
+    },
+    {
+      "name": "v_poime",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "ВПОЙМЕ - Павшинская пойма",
+      "issue": "main"
+    },
+    {
+      "name": "dmdonline",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Домодедово Онлайн №1",
+      "issue": "main"
+    },
+    {
+      "name": "dmitrov_detka",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Это Дмитров, детка!",
+      "issue": "main"
+    },
+    {
+      "name": "mitischi_universe",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Мытищи — Вселенная",
+      "issue": "main"
+    },
+    {
+      "name": "ramnovosti",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "РАММЕДИА",
+      "issue": "main"
+    },
+    {
+      "name": "Gorod_Vidnoe",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Город Видное",
+      "issue": "main"
+    },
+    {
+      "name": "bronnitsy_online",
+      "groups": {
+        "main": "purple"
+      },
+      "alias": "Бронницы Online",
+      "issue": "main"
     }
   ],
   "groups": {
